@@ -2,7 +2,8 @@
 
 <h2>Streaming Video Director/Producer （配信動画ディレクター・プロデューサー）</h2>
  
-Experience in directing and producing e-commerce videos and also for home-shopping TV programming.   (元テレビ通販及びECサイト用動画制作ディレクター；現在はEC用・Webinar用のみ)
+Experience in directing and producing e-commerce videos and also for home-shopping TV programming.   (元テレビ通販及びECサイト用動画制作ディレクター；現在はWebinar用＆配信のみ)
+<a href="https://www.youtube.com/watch?v=73mnVyxWjBQ&t=5986s">Recent Live Stream: Kami Charisma (カミ・カリスマ受賞の配信)</a>
 
 Software Skills: Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro
 
