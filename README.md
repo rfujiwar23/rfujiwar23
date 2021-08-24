@@ -2,9 +2,12 @@
 
 <h2>Streaming Video Director/Producer （配信動画ディレクター・プロデューサー）</h2>
  
-Experience in directing and producing e-commerce videos and also for home-shopping TV programming.   (テレビ通販及びECサイト用の動画制作の元ディレクター；現在はEC用・Webinar用のみ)
+Experience in directing and producing e-commerce videos and also for home-shopping TV programming.   (元テレビ通販及びECサイト用動画制作ディレクター；現在はEC用・Webinar用のみ)
 
-Skills: Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro
+Software Skills: Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro
+
+Related Skills: UX planning strategies, camera work, set design, leadership
+
 
 Bachelor of Arts in: Media Arts (Telecomunications) from <a href="https://mediaschool.indiana.edu/academics/undergraduate/index.html" target="_blank">Indiana University, Bloomington</a>
 
