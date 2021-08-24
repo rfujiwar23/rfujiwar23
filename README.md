@@ -25,6 +25,8 @@ Experience in directing and producing e-commerce videos and also for home-shoppi
   <li>AWS (2020~ ) </li>
 </ul>
 
+Note: Attended 9 week intensive fullstack web development course, Le Wagon Coding Bootcamp in January 2019 (gained RoR, BOotstrap, SASS - Vue and AWS, mostly on my own and through current job)
+9週間のフルスタック・コーディング・ブートキャンプ Le Wagon Coding Bootcamp in January 2019に参加
 
 <h2>Interests and Other Information (趣味・他の情報)</h2>
 
