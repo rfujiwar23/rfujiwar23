@@ -7,7 +7,7 @@ Experience in directing and producing e-commerce videos and also for home-shoppi
 
 <strong><u>Software Skills:</u></strong> Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro
 
-<strong><u>Related Skills:</u></strong> (Floor) Direction/Management, UX planning strategies, videography/camera work for product shooting, set design
+<strong><u>Related Skills:</u></strong> (Floor) Direction/Management, UX planning strategies/storyboarding, videography/camera work for product shooting, set design
 
 
 <strong style="text-decoration: underline; font-weight:bold; font-size:1.25em;">Bachelor of Arts in: </strong>Media Arts (Telecomunications) from <a href="https://mediaschool.indiana.edu/academics/undergraduate/index.html" target="_blank">Indiana University, Bloomington</a>
