@@ -5,9 +5,9 @@
 Experience in directing and producing e-commerce videos and also for home-shopping TV programming.   (元テレビ通販及びECサイト用動画制作ディレクター；現在はWebinar用＆配信のみ)
 <a href="https://www.youtube.com/watch?v=73mnVyxWjBQ&t=5986s">Recent Live Stream: Kami Charisma (カミ・カリスマ受賞の配信)</a>
 
-Software Skills: Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro
+<strong><u>Software Skills:</u></strong> Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro
 
-Related Skills: UX planning strategies, camera work, set design, leadership
+<strong><u>Related Skills:</u></strong> (Floor) Direction/Management, UX planning strategies, videography/camera work for product shooting, set design
 
 
 <strong style="text-decoration: underline; font-weight:bold; font-size:1.25em;">Bachelor of Arts in: </strong>Media Arts (Telecomunications) from <a href="https://mediaschool.indiana.edu/academics/undergraduate/index.html" target="_blank">Indiana University, Bloomington</a>
