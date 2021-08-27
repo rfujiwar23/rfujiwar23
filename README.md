@@ -10,7 +10,7 @@
 <p><strong><u>Related Skills:</u></strong> (Floor) Direction/Management, UX planning strategies/storyboarding, videography/camera work for product shooting, set design</p>
 
 
-<strong style="text-decoration: underline; font-weight:bold; font-size:1.25em;">Bachelor of Arts in: </strong>Media Arts (Telecomunications) from <a href="https://mediaschool.indiana.edu/academics/undergraduate/index.html" target="_blank">Indiana University, Bloomington</a>
+<strong style="text-decoration: underline; font-weight:bold; font-size:1.25em;">Bachelor of Arts in: </strong>Telecommunications (Media Arts) from <a href="https://mediaschool.indiana.edu/academics/undergraduate/index.html" target="_blank">Indiana University, Bloomington</a>
 
 <h2>Junior UI/UX Developer（UI/UX開発者） / Web Designer</h2>
 
@@ -25,7 +25,7 @@
   <li>AWS (2020~ ) </li>
 </ul>
 
-<h5>Note: Attended 9 week intensive fullstack web development course, Le Wagon Coding Bootcamp in January 2019 (gained RoR, BOotstrap, SASS - Vue and AWS, mostly on my own and through current job)</h5>
+<h5>Note: Attended 9 week intensive fullstack web development course, Le Wagon Coding Bootcamp in January 2019 (gained skills in RoR, BOotstrap, SASS, mySQL from 9-weeks; and Vue and AWS, some Python on my own and through current job as a UI/UX Developer)</h5>
 <h6>9週間のフルスタック・コーディング・ブートキャンプ Le Wagon Coding Bootcamp in January 2019に参加</h6>
 
 <h2>Interests and Other Information (趣味・他の情報)</h2>
