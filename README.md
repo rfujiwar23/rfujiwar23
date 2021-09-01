@@ -33,7 +33,7 @@
 <ul>
   <li>Music Composition (software: Finale, Sibelius, Logic Pro, ProTools LE)</li>
   <li>Instruments (Piano, Percussion - drums)</li>
-  <li>Also studied jazz at University of Illinois & Indiana University (studied under Chip McNeill, Joan Hickey, Tito Carillo, David Baker, Luke Gillespie)</li>
+  <li>Also studied jazz at University of Illinois & Indiana University (studied under Chip McNeill, Joan Hickey, Tito Carillo, David Baker, Luke Gillespie) Premiered my original big band tunes at end of semester concerts</li>
   <li>Collecting Music Scores</li>
   <li>Boxing Enthusiast</li>
 </ul>
