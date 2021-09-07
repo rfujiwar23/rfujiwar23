@@ -1,6 +1,6 @@
-<h1>I am a….</h1>
+<h1>I have experience in...</h1>
 
-<h5 style="text-decoration: underline;">I do well in a setting that allows me to create websites and apps, along with creating videos</h5>
+<h5 style="text-decoration: underline;">...the following, but usually prefer a setting that allows me to create websites and apps, along with creating videos. </h5>
 
 <h2>Streaming Video Director/Producer （配信動画ディレクター・プロデューサー）</h2>
 
