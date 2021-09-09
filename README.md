@@ -1,6 +1,6 @@
 <h1>I have experience in...</h1>
 
-<h5 style="text-decoration: underline;">...the following, but usually prefer a setting that allows me to create websites and apps, along with creating videos. </h5>
+<h5 style="text-decoration: underline;">...the following, and I do best in a setting that allows me to create websites and apps, along with producing/directing videos.  </h5>
 
 <h2>Streaming Video Director/Producer （配信動画ディレクター・プロデューサー）</h2>
 
@@ -42,5 +42,6 @@
   <li>Boxing Enthusiast</li>
 </ul>
 
+<p>I have my own youTube channel, but I have strong opinions on creating streaming videos without the experience in broadcast or learning about the video creation process. </p>
 
 
