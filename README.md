@@ -42,6 +42,6 @@
   <li>Boxing Enthusiast</li>
 </ul>
 
-<p>I have my own youTube channel, but I have strong opinions on creating streaming videos without the experience in broadcast or learning about the video creation process. </p>
+<p>I have my own youTube channel, but I have strong opinions on creating streaming videos without the experience in broadcast or learning about the video creation process, thus not wanting to make money off from youTube without going through all the process in creating a programming (TV or online) with a team. </p>
 
 
