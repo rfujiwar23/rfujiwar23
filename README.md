@@ -21,7 +21,7 @@
 <ul>
   <li>HTML (2011~ )</li>
   <li>CSS (2011~ )</li>
-  <li>JavaScript (2014~ )</li>
+  <li>JavaScript (2016~ )</li>
   <li>Ruby on Rails (2019~ )</li>
   <li>Bootstrap (2019~ )</li>
   <li>Vue.js (2019~ )</li>
