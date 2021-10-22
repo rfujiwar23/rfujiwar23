@@ -44,4 +44,6 @@
 
 <p>I have my own youTube channel, but I have strong opinions on creating streaming videos without the experience in broadcast or learning about the video creation process, thus not wanting to make money off from youTube without going through all the process in creating a programming (TV or online) with a team. </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfujiwar23)](https://github.com/rfujiwar23/github-readme-stats)
+
 
