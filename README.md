@@ -22,7 +22,7 @@
   <li>HTML (2011~ )</li>
   <li>CSS (2011~ )</li>
   <li>JavaScript (2016~ )</li>
-  <li>PHP (2017 ~ but really got stronger with this since 2019)</li>
+  <li>PHP/Laravel (2017 ~ but really got stronger with this since 2019)</li>
   <li>Ruby on Rails (2019~ )</li>
   <li>Bootstrap (2019~ )</li>
   <li>Vue.js (2019~ )</li>
