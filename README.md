@@ -16,7 +16,7 @@
 
 <strong style="text-decoration: underline; font-weight:bold; font-size:1.25em;">Bachelor of Arts in: </strong>Telecommunications (Media Arts) from <a href="https://mediaschool.indiana.edu/academics/undergraduate/index.html" target="_blank">Indiana University, Bloomington</a>
 
-<h2>Junior UI/UX Developer（UI/UX開発者） / Web Designer</h2>
+<h2>Junior UI/UX Developer（UI/UX開発者） / Senior Designer</h2>
 
 <ul>
   <li>HTML (2011~ )</li>
