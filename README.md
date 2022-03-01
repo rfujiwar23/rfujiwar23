@@ -36,11 +36,10 @@
 <h2>Interests and Other Information (趣味・他の情報)</h2>
 
 <ul>
-  <li>Music Composition (software: Finale, Sibelius, Logic Pro, ProTools LE)</li>
-  <li>Instruments (Piano, Percussion - drums)</li>
-  <li>Also studied jazz at University of Illinois & Indiana University (studied under Chip McNeill, Joan Hickey, Tito Carillo, David Baker, Luke Gillespie) Premiered my original big band tunes at end of semester concerts</li>
-  <li>Collecting Music Scores</li>
-  <li>Boxing Enthusiast</li>
+  <li>Before focusing solely on web, I was a sushi chef behind the counter while working as a web designer.  I apparently 'entertained' a lot of non-Japanese customers, and provided them with a lot of delicious sushis!😋</li>
+  <li>I studied Jazz Big Band Composition in college as well as broadcast arts (took 5 years to graduate)</li>
+  <li>Multi-instrumentalist, with piano as my primary instrument.  Also proficient in drumset (probably why I'd prefer to do something else on top of being just a developer) and some ukulele</li>
+  <li>Love all sorts of sports, but boxing is my favorite, followed by ice hockey.  I love a sport that you can get physical with an opponent.</li>
 </ul>
 
 <p>I have my own youTube channel, but at this moment I would not want to monetize, though I have years of professional experience in producing and creating videos.</p>
