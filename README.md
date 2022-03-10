@@ -6,7 +6,7 @@
 
 
  
-<p>Experience in directing and producing e-commerce videos and also for home-shopping TV programming.   (元テレビ通販及びECサイト用動画制作ディレクター；現在はWebinar用＆配信のみ)
+<p>Experience in directing and producing e-commerce videos and also for home-shopping TV programming for local channels and major TV stations (mainly for TV Tokyo).   (元テレビ通販及びECサイト用動画制作ディレクター；現在はWebinar用＆配信のみ)
 <a href="https://www.youtube.com/watch?v=73mnVyxWjBQ&t=5986s">Recent Live Stream: Kami Charisma (カミ・カリスマ受賞の配信)</a></p>
 
 <p><strong><u>Software Skills:</u></strong> Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro</p>
