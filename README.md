@@ -2,6 +2,8 @@
 
 <h5 style="text-decoration: underline;">...the following, and I do best in a setting that allows me to create websites and apps, along with producing/directing videos. I do well in a setting that allows me to use my creative skills in videography and web development (or two or more different fields). </h5>
 
+<h5 style="text-decoration: underline;">.自分の経験は下記の通りです。元番組ディレクターという経験もあり、動画制作を未だに続けています。理想の仕事環境は動画制作及びウェブアプリ・サイト制作が両方ともできる環境です。大学時代でジャズを専攻していた頃にドラムセットでマルチタスキングのスキルが身についたのもあり、社会人としてもマルチタスキングが更に強化したので、複数の専門を活かせられる環境で実力発揮できます。</h5>
+
 <h2>Streaming Video Director/Producer （配信動画ディレクター・プロデューサー）</h2>
 
 
