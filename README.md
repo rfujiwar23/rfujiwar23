@@ -31,7 +31,6 @@
   <li>Bootstrap (2019~ )</li>
   <li>Vue.js (2019~ )</li>
   <li>SASS (2019~ )</li>
-  <li>AWS (2020~ ) </li>
 </ul>
 
 <h5>Note: Attended 9 week intensive fullstack web development course, Le Wagon Coding Bootcamp in January 2019 (gained skills in RoR, BOotstrap, SASS, mySQL from 9-weeks; and Vue and AWS, some Python on my own and through current job as a UI/UX Developer)</h5>
