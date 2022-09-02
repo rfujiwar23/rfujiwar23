@@ -4,44 +4,25 @@
 
 <h5 style="text-decoration: underline;">.自分の経験は下記の通りです。元番組ディレクターという経験もあり、動画制作を未だに続けています。理想の仕事環境は動画制作及びウェブアプリ・サイト制作が両方ともできる環境です。大学時代でジャズを専攻していた頃にドラムの授業でマルチタスキングのスキルが身についたのもあり、社会人としてもマルチタスキングが更に強化したので、複数の専門を活かせられる環境の方が実力発揮できます。</h5>
 
-<h2>Streaming Video Director/Producer （配信動画ディレクター・プロデューサー）</h2>
-
-
- 
-<p>Experience in directing and producing e-commerce videos and also for home-shopping TV programming for local channels and major TV stations (mainly for TV Tokyo).   (元テレビ通販及びECサイト用動画制作ディレクター；現在はWebinar用＆配信のみ). Producing/planning for a late night programming on BS FujiTV, 髪カリスマたち。
-<a href="https://www.bsfuji.tv/kamicharisma5/pub/" target="_blank"></a>
- <br>
- <a href="https://www.youtube.com/watch?v=73mnVyxWjBQ&t=5986s">Recent Live Stream: Kami Charisma (カミ・カリスマ受賞の配信)</a></p>
-
-<p><strong><u>Software Skills:</u></strong> Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Final Cut Pro</p>
-
-<p><strong><u>Related Skills:</u></strong> (Floor) Direction/Management, UX planning strategies/storyboarding, videography/camera work for product shooting, set design</p>
-
-
-<strong style="text-decoration: underline; font-weight:bold; font-size:1.25em;">Bachelor of Arts in: </strong>Telecommunications (Media Arts) from <a href="https://mediaschool.indiana.edu/academics/undergraduate/index.html" target="_blank">Indiana University, Bloomington</a>
-
-<h2>Junior UI/UX Developer（UI/UX開発者） / Senior Designer</h2>
-
 <ul>
-  <li>HTML (2011~ )</li>
-  <li>CSS (2011~ )</li>
-  <li>JavaScript (2016~ )</li>
-  <li>PHP/Laravel (2017 ~ but really got stronger with this since 2019)</li>
-  <li>Ruby on Rails (2019~ )</li>
-  <li>Bootstrap (2019~ )</li>
-  <li>Vue.js (2019~ )</li>
-  <li>SASS (2019~ )</li>
+ <li>HTML/CSS</li>
+ <li>CSS types: SASS, Tailwind, some Bulma</li>
+ <li>Javascript</li>
+ <li>Javascript Frameworks: mainly with Vue.js and Nuxt.js, proficient with React.js and some Next.js</li>
+ <li>Backend Languages: Ruby, Ruby on Rails, PHP</li>
+ <li>WordPress (could create themes from scratch now)</li>
 </ul>
 
-<h5>Note: Attended 9 week intensive fullstack web development course, Le Wagon Coding Bootcamp in January 2019 (gained skills in RoR, BOotstrap, SASS, mySQL from 9-weeks; Gained Vue and Nuxt.js through learning on my own and applying it through job post Le Wagon)</h5>
-<h6>9週間のフルスタック・コーディング・ブートキャンプ Le Wagon Coding Bootcamp in January 2019に参加</h6>
+
+<h5>Note: Attended 9 week intensive fullstack web development course, Le Wagon Coding Bootcamp in January 2019 (gaining skills in RoR, Bootstrap, SASS, mySQL from 9-weeks; Gained Vue and Nuxt.js through learning on my own and applying it through job post Le Wagon. Vue.js and Nuxt.js are my two favorite JavaScript frameworks!)</h5>
+<h5>9週間のフルスタック・コーディング・ブートキャンプ Le Wagon Coding Bootcamp in January 2019に参加 (Vue.js と Nuxt.jsが好きなフレームワーク。独学と仕事のプロジェクトでも普段利用しています)</h5>
 
 <h2>Interests and Other Information (趣味・他の情報)</h2>
 
 <ul>
-  <li>I studied Jazz Big Band Composition in college as well as broadcast arts (took 5 years to graduate)</li>
-  <li>Multi-instrumentalist, with piano as my primary instrument.  Also proficient in drumset (probably why I'd prefer to do something else on top of being just a developer) and some ukulele</li>
-  <li>Love all sorts of sports, but boxing is my favorite, followed by ice hockey.  I love a sport that you can get physical with an opponent.</li>
+  <li>I studied Jazz Big Band Composition in college as well as broadcast arts</li>
+  <li>Multi-instrumentalist, with piano as my primary instrument.  Also proficient in jazz drums and some ukulele</li>
+  <li>Love ice hockey and boxing, also watching college basketball and some NBA.  I love a sport that you can get physical with an opponent.</li>
 </ul>
 
 <p>I have my own youTube channel, but at this moment I would not want to monetize, though I have years of professional experience in producing and creating videos.</p>
