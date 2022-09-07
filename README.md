@@ -10,7 +10,7 @@
  <li>Javascript</li>
  <li>Javascript Frameworks: mainly with Vue.js and Nuxt.js, proficient with React.js and some Next.js</li>
  <li>Backend Languages: Ruby, Ruby on Rails, PHP</li>
- <li>WordPress (could create themes from scratch now)</li>
+ <li>WordPress Theme Development</li>
 </ul>
 
 
