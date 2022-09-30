@@ -8,14 +8,14 @@
  <li>HTML/CSS</li>
  <li>CSS types: SASS, Tailwind, some Bulma</li>
  <li>Javascript</li>
- <li>Javascript Frameworks: mainly with Vue.js and Nuxt.js, proficient with React.js and some Next.js</li>
+ <li>Javascript Frameworks: mainly with Vue.js and Nuxt.js, learning React.js</li>
  <li>Backend Languages: Ruby, Ruby on Rails, PHP</li>
- <li>WordPress Theme Development</li>
+ <li>WordPress Theme Development (1~2 years)</li>
 </ul>
 
 
 <h5>Note: Attended 9 week intensive fullstack web development course, Le Wagon Coding Bootcamp in January 2019 (gaining skills in RoR, Bootstrap, SASS, mySQL from 9-weeks; Gained Vue and Nuxt.js through learning on my own and applying it through job post Le Wagon. Vue.js and Nuxt.js are my two favorite JavaScript frameworks!)</h5>
-<h5>9週間のフルスタック・コーディング・ブートキャンプ Le Wagon Coding Bootcamp in January 2019に参加 (Vue.js と Nuxt.jsが好きなフレームワーク。独学と仕事のプロジェクトでも普段利用しています)</h5>
+<h5>9週間のフルスタック・コーディング・ブートキャンプ Le Wagon Coding Bootcamp in January 2019に参加 (Vue.js と Nuxt.jsを独学で習得、仕事でも活かすことに。Reactは勉強中です)</h5>
 
 <h2>Interests and Other Information (趣味・他の情報)</h2>
 
