@@ -8,8 +8,8 @@
  <li>HTML/CSS</li>
  <li>CSS types: SASS, Tailwind, some Bulma</li>
  <li>Javascript</li>
- <li>Javascript Frameworks: mainly with Vue.js and Nuxt.js, learning React.js</li>
- <li>Backend Languages: Ruby, Ruby on Rails, PHP</li>
+ <li>Javascript Frameworks: Vue.js Nuxt.js, React.js</li>
+ <li>Backend Languages: Ruby, Ruby on Rails, PHP, Laravel</li>
  <li>WordPress Theme Development (1~2 years)</li>
 </ul>
 
