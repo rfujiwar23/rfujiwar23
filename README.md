@@ -8,9 +8,9 @@
  <li>HTML/CSS</li>
  <li>CSS types: SASS, Tailwind, some Bulma</li>
  <li>Javascript</li>
- <li>Javascript Frameworks: Vue.js Nuxt.js, React.js</li>
- <li>Backend Languages: Ruby, Ruby on Rails, PHP, Laravel</li>
- <li>WordPress Theme Development (1~2 years)</li>
+ <li>Frameworks: Vue.js Nuxt.js, React.js, Ruby on Rails</li>
+ <li>Proficient in understanding Backend Languages: Ruby, PHP, Laravel</li>
+ <li>WordPress Theme Development - capable of using Vue.js with WordPress; could possibly do React.js as well (3 years)</li>
 </ul>
 
 
@@ -22,7 +22,7 @@
 <ul>
   <li>I studied Jazz Big Band Composition in college as well as broadcast arts</li>
   <li>Multi-instrumentalist, with piano as my primary instrument.  Also proficient in jazz drums and some ukulele</li>
-  <li>Love ice hockey and boxing, also watching college basketball and some NBA.  I love a sport that you can get physical with an opponent.</li>
+  <li>Love ice hockey and boxing, also NCAA basketball and Japanese professional basketball.  I love a sport that you can get physical with an opponent.</li>
 </ul>
 
 <p>I have my own youTube channel, but at this moment I would not want to monetize, though I have years of professional experience in producing and creating videos.</p>
